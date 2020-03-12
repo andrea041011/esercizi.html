@@ -1,3 +1,4 @@
+<!-- I file html DEVONO AVERE ESTENSIONE html o htm, in modo che cliccandoci sopra si apra il browser -->
 <!DOCTYPE html>
 <html>
 	<head>
@@ -6,15 +7,21 @@
 		<title> OBBIETTIVO 12 </title>
 	</head>
 	<body>
+		<!-- O è un'intestazione o è un paragrafo: non può essere entrambi -->
 		<p><h1>OBBIETTIVO 12</p></h1>
+		<!-- chiudendo un'intestazione o un paragrafo il browser va a capo automaticamente, senza bisogno di BR -->
 		<br>
+		<!-- per ogni immagine serve il testo alternativo -->
+		<!-- idem quando apri un paragrafo -->
 		<img src= "obiettivo_12.png"><br>
 		<p> Ad oggi le risorse consumate dalla popolazione mondiale sono più di quelle che gli ecosistemi sono in grado di fornire. Affinché lo sviluppo sociale ed economico possa avvenire in un quadro di sostenibilità, la nostra società dovrà modificare in modo radicale il proprio modo di produrre e consumare beni.
 		L’obiettivo 12 promuove l’attuazione del programma decennale dell’ONU per un modello di consumo e di produzione sostenibile. L’obiettivo è adottare un approccio rispettoso dell’ambiente ai prodotti chimici e ai rifiuti. Il volume dei rifiuti dovrà essere notevolmente ridotto, tra le altre cose grazie al recupero. Lo spreco di derrate alimentari dovrà essere dimezzato. Le imprese dovranno essere spronate a una gestione aziendale sostenibile. Inoltre, gli acquisti pubblici dovranno rifarsi ai criteri di sostenibilità.</p>
+		<!-- questa deve essere un'intestazione seguita da un paragrafo. idem gli altri 2 -->
 		<p><strong>cosa possono fare i governi?</strong><br>
 		I governi possono spronare le persone a fare la raccolta differenziate mettendo in ogni pase e città bidoni appositi.</p>
 		<p><strong> cosa possono fare le imprese?</strong><br>
 		È interesse delle imprese comprendere e tenere in considerazione gli impatti ambientali e sociali dei prodotti e dei servizi. Le aziende possono usare il loro potere innovativo per progettare soluzioni in grado di consentire alle persone di condurre stili di vita più sostenibili, riducendo gli impatti negativi e migliorandone il benessere.</p>
+		<!-- non hai chiuso l'ultimo paragrafo: vai a capo prima della chiusura, altrimenti te ne dimentichi -->
 		<p><strong> cosa possono fare gli adulti?</strong><br>
 		Ci sono due modi principali per aiutare a risolvere il problema: ridurre i rifiuti e essere attenti a ciò che si acquista, scegliendo un’opzione sostenibile per quanto possibile.
 	</body>
